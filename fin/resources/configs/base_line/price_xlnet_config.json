@@ -1,0 +1,12 @@
+{
+    "d_head": 16,
+    "d_inner": 128,
+    "d_model": 64,
+    "ff_activation": "gelu",
+    "n_head": 4,
+    "n_layer": 2,
+    "n_token": 0,
+    "pos_len": 64,
+    "pre_ln": true,
+    "untie_r": false
+}

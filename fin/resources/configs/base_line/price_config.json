@@ -1,0 +1,5 @@
+{
+    "category_num": 72,
+    "post_act_fn": "tanh",
+    "pre_act_fn": "gelu"
+}

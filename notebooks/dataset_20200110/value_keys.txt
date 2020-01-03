@@ -1,0 +1,58 @@
+Abnormal Gains (Losses)
+Accounts & Notes Receivable
+Cash from (Repayment of) Debt
+Cash from (Repurchase of) Equity
+Cash, Cash Equivalents & Short Term Investments
+Change in Accounts Payable
+Change in Accounts Receivable
+Change in Fixed Assets & Intangibles
+Change in Inventories
+Change in Other
+Change in Working Capital
+Cost of Revenue
+Depreciation & Amortization
+Dividends Paid
+Gross Profit
+Income (Loss) from Continuing Operations
+Income Tax (Expense) Benefit, Net
+Interest Expense, Net
+Inventories
+Long Term Debt
+Long Term Investments & Receivables
+Net Cash from Acquisitions & Divestitures
+Net Cash from Financing Activities
+Net Cash from Investing Activities
+Net Cash from Operating Activities
+Net Change in Cash
+Net Change in Long Term Investment
+Net Extraordinary Gains (Losses)
+Net Income
+Net Income (Common)
+Net Income/Starting Line
+Non-Cash Items
+Non-Operating Income (Loss)
+Operating Expenses
+Operating Income (Loss)
+Other Long Term Assets
+Payables & Accruals
+Pretax Income (Loss)
+Pretax Income (Loss), Adj.
+Property, Plant & Equipment, Net
+Research & Development
+Retained Earnings
+Revenue
+Selling, General & Administrative
+Share Capital & Additional Paid-In Capital
+Shares (Basic)
+Shares (Diluted)
+Short Term Debt
+Total Assets
+Total Current Assets
+Total Current Liabilities
+Total Equity
+Total Liabilities
+Total Liabilities & Equity
+Total Noncurrent Assets
+Total Noncurrent Liabilities
+Treasury Stock
+mean_price
